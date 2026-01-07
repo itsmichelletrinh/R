@@ -3,7 +3,7 @@
 ## 📚 Table of Contents
 - [Business Task](#business-task)
 - [About Gene Annotation with DECIPHER Assignment](#about-gene-annotation-with-decipher-assignment)
-- [About Phylogenetics Assignment](about-phylogenetics-assignment)
+- [About Phylogenetics Assignment](#about-phylogenetics-assignment)
   
 Please note that all assignment data and questions are created by the University of Waterloo, Department of Biology for the BIOL365 Methods in Bioinformatics course. 
 

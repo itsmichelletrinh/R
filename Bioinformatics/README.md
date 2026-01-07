@@ -16,9 +16,9 @@ Analysis of genome-scale gene and protein expression, construction of species an
 
 ## About Gene Annotation with DECIPHER Assignment
 
-- Datasets: FASTA file from [A2contig.fasta](https://github.com/itsmichelletrinh/R/blob/main/Bioinformatics/A2Contig%20Assignment/A2contig.fasta).
-- Tools: R Studio for data analysis - View [R file](https://github.com/itsmichelletrinh/R/blob/main/Bioinformatics/A2Contig%20Assignment/BIOL%20365%20Lab%20Assignment%20%232.R).
-- Final Report: [BIOL 365 Lab Assignment #2](https://github.com/itsmichelletrinh/R/blob/main/Bioinformatics/A2Contig%20Assignment/BIOL%20365%20Lab%20Assignment%20%232.pdf).
+- Datasets: FASTA file from [A2contig.fasta](https://github.com/itsmichelletrinh/R/blob/main/Bioinformatics/Gene%20Annotation%20with%20DECIPHER/A2contig.fasta).
+- Tools: R Studio for data analysis - View [R file](https://github.com/itsmichelletrinh/R/blob/main/Bioinformatics/Gene%20Annotation%20with%20DECIPHER/BIOL%20365%20Lab%20Assignment%20%232.R).
+- Final Report: [BIOL 365 Lab Assignment #2](https://github.com/itsmichelletrinh/R/blob/main/Bioinformatics/Gene%20Annotation%20with%20DECIPHER/BIOL%20365%20Lab%20Assignment%20%232.pdf).
 
 ***
 
